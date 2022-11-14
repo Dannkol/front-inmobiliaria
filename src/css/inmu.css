@@ -1,0 +1,57 @@
+.inmu {
+  width: auto;
+  height: auto;
+  padding: 20px;
+}
+.cont-inmu {
+  width: 1026px;
+  height: 397px;
+  box-sizing: border-box;
+
+  background-size: 100%;
+
+  left: 57px;
+  top: 181px;
+  flex-wrap: wrap;
+
+  border: 1px solid #5F9DF7;
+  filter: drop-shadow(1px 4px 4px #5F9DF7);
+  border-radius: 54px;
+
+  padding: 20px;
+}
+
+
+
+.inm-city {
+ color: white;
+ font-size: 25px;
+}
+
+.price-inm {
+  color:white;
+
+  margin-top: 20%;
+  float: right
+}
+
+.esp-inm {
+
+  
+  display: flex;
+  
+  justify-content: space-between;
+}
+.esp-inm h1 , .esp-inm h3 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 40;
+  font-size: 35px;
+  line-height: 45px;
+  letter-spacing: 0.10em;
+}
+
+.esp-inm div p h1 {
+    text-align: justify;
+    margin-left: 90px;
+}
